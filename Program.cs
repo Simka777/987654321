@@ -9,7 +9,9 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("bgvytgfvgguyh");
+            int a = 3;
+            int b = 15;
+            Console.WriteLine("3 + 15 = {0}", a + b);
             Console.ReadKey();
         }
     }
